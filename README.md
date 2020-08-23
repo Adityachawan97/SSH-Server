@@ -20,6 +20,28 @@
           
           
           ```
-###### 2. Give the script kali_enable_ssh.sh permissions to execute 
 
-# Deployement
+###### 2. Give the script kali_enable_ssh.sh permissions to execute 
+        - Commands for the same are:
+          ```
+          
+          chmod 777 kali_enable_ssh.sh
+          
+          
+          ```
+
+###### 3. Enter Y when the script prompts to install the requirements on your system
+
+###### 4. Follow along with the messages that the script outputs.
+
+###### 5. When the script finishes executing follow the instruction that the script outputs and make the necessary changes required.
+         - Commands for the same are:
+          ```
+          
+          cd /etc/ssh
+          
+          
+          ```
+
+
+
