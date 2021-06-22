@@ -1,5 +1,5 @@
 # Project Title :fire:
-## SSH-Server Autorun Script
+###### SSH-Server Autorun Script
 
 # Motivation :heart:
 ###### To get rid of the hassle of connecting the Raspberry-Pi to an external monitor using wired connections and reduce wired mess.
