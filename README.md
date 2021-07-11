@@ -13,7 +13,7 @@ When connecting the Raspberry-Pi running Kali Linux to an external monitor many 
 
 <br/>
 
-# Repository files 
+# Repository files :eyes:
 1. Documentation (step by step explanation)
 2. config_file_edit (video showing how to edit the config file)
 3.  kali_enable_ssh (actual script)
