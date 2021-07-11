@@ -1,4 +1,4 @@
-# Project Title :fire:
+# Project Title :boom:
 SSH-Server Autorun Script
 
 <br/>
@@ -13,7 +13,7 @@ When connecting the Raspberry-Pi running Kali Linux to an external monitor many 
 
 <br/>
 
-# Installation
+# Installation :zzz:
 
 ###### 1. Git clone this repository in your kali linux machine build on the Raspberry-Pi
         - Commands for the same are:
