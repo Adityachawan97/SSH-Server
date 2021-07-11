@@ -1,15 +1,15 @@
 # Project Title :fire:
-###### SSH-Server Autorun Script
+SSH-Server Autorun Script
 
 <br/>
 
 # Motivation :heart:
-###### To get rid of the hassle of connecting the Raspberry-Pi to an external monitor using wired connections and reduce wired mess.
+To get rid of the hassle of connecting the Raspberry-Pi to an external monitor using wired connections and reduce wired mess.
 
 <br/>
 
 # Description :smiley:
-###### When connecting the Raspberry-Pi running Kali Linux to an external monitor many wired connections like a HDMI to VGA connector are required and the whole process of connection is somewhat troublesome. In order to connect headlessly to the operating system being run on the Raspberry-Pi it would be a good consideration to use some wireless channel to connect. This script does the same job in an automated way and provides the end user comfort to sit back and relax.
+When connecting the Raspberry-Pi running Kali Linux to an external monitor many wired connections like a HDMI to VGA connector are required and the whole process of connection is somewhat troublesome. In order to connect headlessly to the operating system being run on the Raspberry-Pi it would be a good consideration to use some wireless channel to connect. This script does the same job in an automated way and provides the end user comfort to sit back and relax.
 
 <br/>
 
