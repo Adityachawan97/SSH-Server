@@ -12,21 +12,21 @@
 ###### 1. Git clone this repository in your kali linux machine build on the Raspberry-Pi
         - Commands for the same are:
           ```
-          
           git clone https://github.com/Adityachawan97/SSH-Server.git
-          
-          
           ```
 
 ###### 2. Give the script kali_enable_ssh.sh permissions to execute 
         - Commands for the same are:
           ```
-          
-          chmod 777 kali_enable_ssh.sh
-          
-          
+          chmod 777 kali_enable_ssh.sh          
           ```
 
-###### 3. Enter Y when the script prompts to install the requirements on your system
+###### 3. Execute the script 
+        - Commands for the same are:
+          ```
+          ./kali_enable_ssh.sh       
+          ```
 
-###### 4. Follow along with the messages that the script outputs.
+###### 4. Enter Y when the script prompts to install the requirements on your system
+
+###### 5. Follow along with the messages that the script outputs.
