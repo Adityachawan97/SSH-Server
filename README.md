@@ -42,3 +42,7 @@ When connecting the Raspberry-Pi running Kali Linux to an external monitor many 
 ###### 4. Enter Y when the script prompts to install the requirements on your system
 
 ###### 5. Follow along with the messages that the script outputs.
+
+###### 6. Edit the config file as needed.
+
+###### 7. Restart your Kali machine.
