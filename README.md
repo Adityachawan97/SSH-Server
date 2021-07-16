@@ -25,15 +25,15 @@ When connecting the Raspberry-Pi running Kali Linux to an external monitor many 
 
 ###### 1. Git clone this repository in your kali linux machine build on the Raspberry-Pi
        
-          git clone https://github.com/Adityachawan97/SSH-Server-Autorun-Config.git
+    git clone https://github.com/Adityachawan97/SSH-Server-Autorun-Config.git
 
 ###### 2. Give the script kali_enable_ssh.sh permissions to execute 
                
-          chmod 777 kali_enable_ssh.sh          
+    chmod 777 kali_enable_ssh.sh          
 
 ###### 3. Execute the script 
        
-          ./kali_enable_ssh.sh       
+    ./kali_enable_ssh.sh       
 
 
 ###### 4. Enter Y when the script prompts to install the requirements on your system
